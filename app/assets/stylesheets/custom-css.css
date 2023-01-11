@@ -1,0 +1,19 @@
+/*.banner {
+  background-image: url("background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+h1{
+  position: absolute;
+    left: 38%;
+    top: 20%;
+}
+.navbar{
+/*  z-index: 9999;*/
+/*  background-color: #ffffff2e;*/
+}*/
